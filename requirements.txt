@@ -1,0 +1,3 @@
+scapy
+Python3
+Linux environment (recommended: SEED Labs Ubuntu 20.04 VM)
